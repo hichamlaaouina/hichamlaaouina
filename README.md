@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hicham Laaouina
 
-<!--
-**hichamlaaouina/hichamlaaouina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programmatic & Digital Media Manager | Criteo | Paris 🇫🇷
 
-Here are some ideas to get you started:
+Digital media professional with 7+ years of experience across programmatic advertising, SEA and performance marketing. Currently managing **+4M€ in annual programmatic budgets** at Criteo for France's top holdcos — Publicis, Havas, WPP, Dentsu and OMG.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Expertise
+
+- **Programmatic** — Criteo DSP · DV360 · RTB · Bid Management · Retargeting
+- **Analytics** — GA4 · Adobe Analytics · GTM · Excel
+- **Campaign & Account** — Account Management · QBR · Media Planning · Upsell
+- **Paid & CRM** — SEA / Google Ads · Paid Social · Klaviyo · Affiliation CPA
+
+---
+
+## 📊 Key Numbers
+
+| | |
+|---|---|
+| 💰 Annual Budget Managed | +4M€ |
+| 👥 Active Accounts | 15+ |
+| 🏢 Holdcos | Publicis · Havas · WPP · Dentsu · OMG |
+| 📅 Digital Experience | 7+ years |
+
+---
+
+## 🔗 Links
+
+- 🌐 [hichamlaaouina.com](https://hichamlaaouina.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/laaouina/)
+
+---
+
+📍 Paris, France
